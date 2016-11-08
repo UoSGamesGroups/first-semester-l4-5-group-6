@@ -1,0 +1,188 @@
+October 26th
+
+[11:12 PM] mattblack343: hey elliot you there
+[11:13 PM] mattblack343: how were you describing your intercom / narrative system?
+[11:14 PM] mattblack343: i was gonna set a task to create a design document detailing the aims before you go ahead on the coding of it
+[11:14 PM] lyut: Ye
+[11:15 PM] mattblack343: is calling it a intercom narrative system cool. you know what i mean. the thing u mentioned
+[11:15 PM] mattblack343: lol
+[11:15 PM] lyut: Yeah that's fine :smile:
+[11:16 PM] lyut: So dialog boxes to show text that the mc is hearing from the radio or reading or whatever
+[11:16 PM] lyut: if it was hearing from a radio, we could do a differnet style of dialog box
+[11:16 PM] mattblack343: ok cool
+[11:16 PM] lyut: maybe some sound effects if we get that far
+[11:17 PM] mattblack343: ok cool
+[11:17 PM] mattblack343: i was thinking of the character
+[11:18 PM] mattblack343: i'm leaning towards some kind of robot AI
+[11:18 PM] lyut: Ah okey
+[11:18 PM] lyut: so an AI trying to regain it's memory of the event?
+[11:19 PM] mattblack343: for like ease of actually making a character lol
+[11:19 PM] mattblack343: yea
+[11:19 PM] mattblack343: like maybe hes like an emergency repair bot
+[11:19 PM] mattblack343: or she
+[11:19 PM] mattblack343: lol
+[11:19 PM] mattblack343: wanna be inclusive
+[11:20 PM] lyut: haha okey
+[11:20 PM] lyut: well that could work if we're gonna be using a distopian time-period kinda thing
+[11:20 PM] lyut: http://www.mobygames.com/images/shots/l/26961-zero-wing-genesis-screenshot-signal-say-even-engrish-speak.gif
+[11:20 PM] lyut: that was the kinda dialog box I was thinking
+[11:20 PM] lyut: not that exactly
+[11:21 PM] lyut: but just pretty simple
+[11:21 PM] lyut: http://s27.postimg.org/dxhp46jsz/image.png
+[11:21 PM] lyut: or this
+[11:21 PM] mattblack343: i'm giving this task to jamie
+[11:21 PM] lyut: ah okey
+[11:22 PM] mattblack343: i'll have a similar one for level
+[11:22 PM] mattblack343: lol
+[11:22 PM] Jamie Gostling: Robot AI for the character. Sounds cool
+[11:22 PM] mattblack343: yea i have a thing atm for ai
+[11:22 PM] mattblack343: lol
+[11:23 PM] mattblack343: i think modelling/ drawing it would be far easier than a human
+[11:23 PM] lyut: okey dokey
+[11:23 PM] Jamie Gostling: If we use AI as a char that way we can make the flash backs of events and such more logical as they could be like hard drives or discs/tapes that the player finds.
+[11:23 PM] lyut: ye
+[11:23 PM] mattblack343: ah thats a sick idea
+[11:24 PM] lyut: my only concern is daves opinion on robots
+[11:24 PM] lyut: but we could just ignore it
+[11:24 PM] mattblack343: oh
+[11:24 PM] lyut: but robots works in this context imo
+[11:24 PM] lyut: but ye idk what he'll think
+[11:24 PM] Jamie Gostling: It will be harder for the player to relate and feel for but if we can pull it off that would make for some powerful emotions.
+[11:24 PM] lyut: I like the idea
+[11:25 PM] lyut: mm
+[11:25 PM] lyut: like in the movie Her
+[11:25 PM] Jamie Gostling: Yeah
+[11:25 PM] lyut: they get emotions from AI
+[11:26 PM] mattblack343: what did he say
+[11:26 PM] mattblack343: i'd argue an advanced ai is no different to a human
+[11:26 PM] mattblack343: lol
+[11:26 PM] mattblack343: yea man
+[11:26 PM] mattblack343: thats film blew my mind
+[11:26 PM] mattblack343: only saw it the other month
+[11:26 PM] mattblack343: could also argue a lot of humans are basically robots
+[11:26 PM] lyut: In previous groups he hasn't been fond of robots
+[11:27 PM] lyut: but ye I think we could pull it off
+[11:27 PM] lyut: honestly like we're not going for the mecha style of robot that you see
+[11:27 PM] lyut: so I think it'll be okay but don't hold me on it lol
+[11:27 PM] mattblack343: android?
+[11:27 PM] mattblack343: android?
+[11:27 PM] mattblack343: lol
+[11:27 PM] mattblack343: yea jamie dont make a mood board of gundam wing
+[11:27 PM] lyut: hahahah
+[11:27 PM] mattblack343: haha
+[11:30 PM] Jamie Gostling: ?
+[11:30 PM] mattblack343: lol no mecha bots
+[11:30 PM] mattblack343: like robot godzilla
+[11:30 PM] Jamie Gostling: Ahh okay
+[11:30 PM] mattblack343: haha
+[11:30 PM] Jamie Gostling: No super ultra death robots.
+[11:31 PM] Jamie Gostling: Got it xD
+[11:31 PM] mattblack343: actually when you say it like that...
+[11:31 PM] Jamie Gostling: Oh I just thought of something we could do as a kind of ending almost.
+[11:32 PM] Jamie Gostling: Throughout the game the player believes that the intention of the robot is good and then it turns out that he's like a bad batch of bug ridden war machines that were sent off to another world to destroy something.
+[11:32 PM] lyut: lmao
+[11:33 PM] lyut: okay
+[11:33 PM] Jamie Gostling: Kinda like Bastion in overwatch xD
+[11:33 PM] Jamie Gostling: Totally not where I got it from....
+[11:33 PM] Jamie Gostling: Nah just an idea though lol.
+[11:33 PM] lyut: He actually blew up the space ship in the first place
+[11:33 PM] lyut: it all comes back to him at the end
+[11:33 PM] lyut: then he kills himself in guilt
+[11:33 PM] mattblack343: i was just thinking what if like the mother ship is also an AI
+[11:33 PM] mattblack343: and youre like inside it trying to fix her
+[11:33 PM] mattblack343: some real freud shit there
+[11:34 PM] Jamie Gostling: Oh damn yeah that could actually be a real good twist.
+[11:34 PM] lyut: hmm
+[11:34 PM] lyut: ye could do
+[11:34 PM] mattblack343: i was just thinking what if like the mother ship is also an AI
+[11:34 PM] lyut: metapuzzle
+[11:35 PM] Jamie Gostling: Also that sounds cool too we could give both AI personality like the mother ship is weak and frightened and your job is to try to repair her and work out what happen to make her happy again and strong or something.
+[11:36 PM] mattblack343: hmmm just reliaed its getting close to portal lol
+[11:36 PM] Jamie Gostling: Oops xD
+[11:36 PM] Jamie Gostling: Yeah
+[11:36 PM] lyut: unintentionally close
+[11:36 PM] lyut: there are so many games out there that it's going to be getting to close to a game of some sort
+[11:36 PM] lyut: but doesnt mean it's the same
+[11:37 PM] mattblack343: accidentally made portal
+[11:37 PM] Jamie Gostling: Well I'm going to step off for the night catch you guys tomorrow on here at some point no doubt.
+[11:37 PM] mattblack343: gj guys
+[11:37 PM] mattblack343: yea its just an impossible bar to beat
+[11:37 PM] mattblack343: ight cool
+[11:37 PM] mattblack343: gj guys
+[11:38 PM] lyut: ye alright then., cya later all
+
+
+October 29th
+
+[2:40 PM] Jamie Gostling: Update on the tasks on my side. I have finished the walkthrough and have put it in the repo under my name and under project assuming thats where it goes.
+[2:41 PM] Jamie Gostling: I also moved the task on the project timeline to review. Can I do that or is for you and elliot to do?
+[2:42 PM] mattblack343: yea place things to be reviewed, i put in a verify column which is actually the same thing
+[2:42 PM] Jamie Gostling: Ah okay
+[2:42 PM] mattblack343: i didnt relised the review column was the same thing lol
+[2:42 PM] mattblack343: jira has it named as verify
+[2:42 PM] Jamie Gostling: Oh and I sent out an email saying the same thing to make it all official and such.
+[2:43 PM] mattblack343: can you send you msg as an email so the lecturers know your communivcating thru that
+[2:43 PM] mattblack343: ojh
+[2:43 PM] mattblack343: nice
+[2:43 PM] mattblack343: gd gd
+[2:44 PM] Jamie Gostling: Yep haha I think I'm good on the character research as well so I think I'll upload that too and move it to be reviewed, then I can spend the rest of the day on concept work and a mood board to go with the research.
+[2:44 PM] mattblack343: sounds good , thanks alot
+[2:44 PM] Jamie Gostling: No worries.
+[2:45 PM] Jamie Gostling: Should I put the character research under the research folder or the project folder?
+[2:46 PM] mattblack343: maybe there should be a research folder under art work or something
+[2:47 PM] Jamie Gostling: Hmm not seeing it I'll put it under research.
+[2:47 PM] mattblack343: yea just stick it somewhere lol
+[2:47 PM] mattblack343: i'll be messign about with some ideas tonight but i'll be doing most of my tasks tomorrow
+[2:47 PM] Jamie Gostling: Okay sounds good.
+
+October 31st
+
+[8:07 PM] mattblack343: hey alright
+[8:08 PM] Jamie Gostling: Hey guys
+[8:08 PM] mattblack343: hows it going?
+[8:09 PM] Jamie Gostling: Pretty well. Yourself?
+[8:09 PM] mattblack343: yea pretty cool
+[8:10 PM] mattblack343: i mocked up a block kinda thing
+[8:10 PM] Jamie Gostling: Ah awesome
+[8:10 PM] mattblack343: i can show you a render, hang on
+[8:10 PM] Jamie Gostling: Alright cool
+[8:11 PM] mattblack343: https://cdn.discordapp.com/attachments/236571083317313538/242742277779357696/concept1.png
+[8:11 PM] Jamie Gostling: Oooh nice looks pretty good
+[8:11 PM] Jamie Gostling: Are those the blocks that the player can slide and move?
+[8:12 PM] mattblack343: yea i was thinking they move when you hit the switches or something
+[8:12 PM] mattblack343: i havent written up how that plays out yet
+[8:12 PM] Jamie Gostling: Oh cool yeah I see now.
+[8:13 PM] mattblack343: i'm going to render off more images but the base of an idea is there
+[8:13 PM] Jamie Gostling: Yesh nice
+[8:14 PM] mattblack343: i was thinking you have to move the blocks out of the way of the white crate, like it moves along the yellow line slowly, which creates a ticking clock
+[8:15 PM] mattblack343: and you could distract the player with like scripted holes being punched through by asteroids or something
+[8:15 PM] Jamie Gostling: That could be cool
+[8:16 PM] mattblack343: had a funny thought that the boxes could be anthropomorphised
+[8:16 PM] mattblack343: like they have robot faces, and they see the crate coming towards them and get scared
+[8:17 PM] Jamie Gostling: Oh cool yeah haha that could put a funnier twist on it.
+[8:18 PM] mattblack343: but yea, i think we could make a few puzzles out of something like that
+[8:18 PM] mattblack343: and its getting the occiolism abit through the mechanics
+[8:19 PM] Jamie Gostling: Yeah its definately worth designing some puzzles likes that at this point I'll be working on stuff like that tonight and tomorrow hopefully.
+[8:19 PM] mattblack343: because your view is resricted if it was first person (maybe)
+[8:19 PM] Jamie Gostling: Yeah
+[8:20 PM] mattblack343: i dont think we want too many different puzzles, we need to combine them in interesting ways
+[8:20 PM] Jamie Gostling: Yeah
+[8:20 PM] mattblack343: hey elliot
+[8:21 PM] lyut: Yo
+[8:21 PM] lyut: Looks good :smiley:
+[8:21 PM] lyut: The concept is pretty different to what I had in mind but I'll roll with this
+[8:22 PM] mattblack343: yea i was trying to like pack the ideas into what the players going to be doing most of the time
+[8:22 PM] lyut: Yee that's fair enough
+[8:22 PM] mattblack343: we can still remix the ideas back in
+[8:23 PM] lyut: I was thinking today that we should avoid trying making the player get bored of the puzzles tho, they gotta be fun
+[8:23 PM] mattblack343: oh yea
+[8:23 PM] mattblack343: for sure
+[8:23 PM] mattblack343: we can have some weird aliens get crushed or something
+[8:23 PM] lyut: Yeee haha
+[8:23 PM] lyut: Well not sure how easy that'd be to code
+[8:23 PM] lyut: :p
+[8:23 PM] mattblack343: lol
+[8:24 PM] mattblack343: blood particle system
+[8:24 PM] mattblack343: just so much blood you cant see
+[8:24 PM] lyut: haha yeah basicallyt
+[8:24 PM] mattblack343: loma
