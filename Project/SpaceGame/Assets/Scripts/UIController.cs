@@ -7,6 +7,7 @@ public class UIController : MonoBehaviour
 {
 
     public Text VelocityText;
+    public Text FPSText;
     private GameObject _player;
     private Rigidbody _playerRB;
 
@@ -14,7 +15,6 @@ public class UIController : MonoBehaviour
 	void Start () {
         _player = GameObject.FindGameObjectWithTag("Player");
 	    _playerRB = _player.GetComponent<Rigidbody>();
-
 	}
 	
 	// Update is called once per frame
@@ -23,5 +23,6 @@ public class UIController : MonoBehaviour
 	    VelocityText.text = "<b>Velocity</b>\n" +
 	                        "F: " + _player.transform.InverseTransformDirection(_playerRB.velocity).z.ToString("F") + "\n" + 
                             "S: " + Mathf.Abs(_player.transform.InverseTransformDirection(_playerRB.velocity).x).ToString("F");
+	    FPSText.text = "<b>FPS: </b> " + (1.0f/Time.smoothDeltaTime).ToString("F0");
 	}
 }
