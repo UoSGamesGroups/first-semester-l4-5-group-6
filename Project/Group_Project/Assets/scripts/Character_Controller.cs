@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using System.Collections;
 
 public class Character_Controller : MonoBehaviour {
     
@@ -28,20 +27,20 @@ public class Character_Controller : MonoBehaviour {
     void Update()
     {
         // TODO: Make movement keys adjustable by Designers.
-        if (Input.GetKey(KeyCode.W)) // Up
+        if (Input.GetKey(UpKey)) // Up
         {
             rb.AddForce(Vector2.up * Time.deltaTime * Velocity * 1000);
             source.PlayOneShot(PropellantJets);
         }
-        if (Input.GetKey(KeyCode.S)) // Down
+        if (Input.GetKey(DownKey)) // Down
         {
             rb.AddForce(Vector2.down * Time.deltaTime * Velocity * 1000);
         }
-        if (Input.GetKey(KeyCode.A)) // Left 
+        if (Input.GetKey(LeftKey)) // Left 
         {
             rb.AddForce(Vector2.left * Time.deltaTime * Velocity * 10000);
         }
-        if (Input.GetKey(KeyCode.D)) // Right
+        if (Input.GetKey(RightKey)) // Right
         {
             rb.AddForce(Vector2.right * Time.deltaTime * Velocity * 10000);
         }
