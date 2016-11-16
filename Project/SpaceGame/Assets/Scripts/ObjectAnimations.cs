@@ -14,7 +14,7 @@ public class ObjectAnimations : MonoBehaviour {
 
 
 
-    private float minPos; //the default positon
+    private float defaultPosition; //the default positon
     public float movementHeight = 15.0f; // How far we want the door to move upwards
     
 
@@ -23,7 +23,7 @@ public class ObjectAnimations : MonoBehaviour {
 
         
         rb = gameObject.GetComponent<Rigidbody>();
-        minPos = transform.position.y;
+        defaultPosition = transform.position.y;
     }
 	
 	// Update is called once per frame
@@ -38,30 +38,30 @@ public class ObjectAnimations : MonoBehaviour {
 
         float maxOpen;
         var currentPos = transform.position.y; //place the y co-ord value in the current pos - this will change
-        maxOpen = minPos + movementHeight;   //create a max value that can be edited. this is the max the door can move. 
-        
+        maxOpen = defaultPosition + movementHeight;   //create a max value that can be edited. this is the max the door can move. 
 
-        //while (currentPos <= maxOpen)
+
+        while (currentPos < maxOpen)
+        {
+            animationZ(); //pull the door towards or away animation
+            animationY(); //pull the door up or down animation
+                          //make sure the current position of the door is known
+            currentPos = transform.position.y;
+
+        }
+
+
+        //if (currentPos <= maxOpen) // if the current position is less or equal too then keep going
         //{
         //    animationZ(); //pull the door towards or away animation
         //    animationY(); //pull the door up or down animation
-        //     //make sure the current position of the door is known
-        //    currentPos = transform.position.y;
-
+        //    currentPos = transform.position.y; //make sure the current position of the door is known
         //}
-        
-       
-            //if (currentPos <= maxOpen) // if the current position is less or equal too then keep going
-            //{
-            //    animationZ(); //pull the door towards or away animation
-            //    animationY(); //pull the door up or down animation
-            //    currentPos = transform.position.y; //make sure the current position of the door is known
-            //}
-            //else
-            //{
-            //    return;
-            //}
-        
+        //else
+        //{
+        //    return;
+        //}
+
 
     }
     public void animationY()
