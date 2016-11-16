@@ -28,6 +28,8 @@ public class CharacterMovement : MonoBehaviour
 
     private Rigidbody _rb;
 
+    
+
     // Use this for initialization
     void Start ()
     {
