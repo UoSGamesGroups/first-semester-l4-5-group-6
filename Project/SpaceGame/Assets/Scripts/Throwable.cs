@@ -4,59 +4,6 @@ using System.Collections;
 [RequireComponent(typeof(Rigidbody))]
 public class Throwable : MonoBehaviour
 {
-    //private bool isDragging;
-    //public Camera cam;
-    //private Plane dragPlane;
-    //private Vector3 moveTo;
-    //private Rigidbody rb;
-    //public float dragDamper;
-    //public float addToY;
-
-    //void Start()
-    //{
-    //    cam = GameObject.Find("Camera").GetComponent<Camera>();
-    //    rb = GetComponent<Rigidbody>();
-    //}
-    //// Update is called once per frame
-    //void Update()
-    //{
-    //    Ray ray = cam.ScreenPointToRay(Input.mousePosition);
-    //    RaycastHit hit;
-    //    float dist;
-    //    if (Input.GetMouseButtonDown(0))
-    //    {
-    //        if (Physics.Raycast(ray, out hit))
-    //        {
-    //            if (hit.transform.root.transform == transform)
-    //            {
-    //                isDragging = true;
-    //                rb.useGravity = false;
-    //                dragPlane = new Plane(Vector3.up, transform.position + Vector3.up * addToY);
-    //            }
-    //        }
-    //    }
-    //    if (isDragging)
-    //    {
-    //        bool hasHit = dragPlane.Raycast(ray, out dist);
-    //        if (hasHit)
-    //        {
-    //            moveTo = ray.GetPoint(dist);
-    //        }
-    //    }
-    //    if (Input.GetMouseButtonUp(0) && isDragging)
-    //    {
-    //        isDragging = false;
-    //        rb.useGravity = true;
-    //    }
-    //}
-
-    //void FixedUpdate()
-    //{
-    //    if (!isDragging) return;
-    //    Vector3 velocity = moveTo - transform.position;
-    //    rb.velocity = Vector3.Lerp(rb.velocity, velocity,
-    //        dragDamper * Time.deltaTime);
-    //}
     private Vector3 screenPoint;
     private Vector3 offset;
     private Vector3 oldMouse;
