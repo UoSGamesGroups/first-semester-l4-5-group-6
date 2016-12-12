@@ -1,51 +1,52 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class ObjectSpawner : MonoBehaviour {
+public class ObjectSpawner : MonoBehaviour
+{
 
 
 
     //NOT USEDANYMORE
     //public int hazardCount;
-   // public float spawnWait;
-   //// public float startWait;
-   // public float waveWait;
-//public GameObject spawnobject;
+    // public float spawnWait;
+    //// public float startWait;
+    // public float waveWait;
+    //public GameObject spawnobject;
     //public Vector3 spawnValues;
 
 
     public GameObject Crate;
     public GameObject Spawner;
-    
-    
+
+
     public int count;
 
-    public Vector3 spawnSpot = new Vector3(0, 2, 0);
+    public Vector3 spawnSpot = new Vector3(0, 20, 0);
 
     public int LaunchSpeed = 100000;
 
 
-   // public Crate crateprefab;
+    // public Crate crateprefab;
     // Use this for initialization
     void Start()
     {
         //StartCoroutine(SpawnWaves());
         cubeSpawn();
-       // GameObject cubeSpawn = (GameObject)Instantiate(Crate);
+        // GameObject cubeSpawn = (GameObject)Instantiate(Crate);
         if (count != 1)
         {
-           
-           // Instantiate(Crate);
-           
-           // Crate.GetComponent<Rigidbody>().AddForce(Vector3.up);
-           // count++;
+
+            // Instantiate(Crate);
+
+            // Crate.GetComponent<Rigidbody>().AddForce(Vector3.up);
+            // count++;
         }
     }
     public void cubeSpawn()
     {
-        
-        GameObject cubeSpawn = (GameObject)Instantiate(Crate, new Vector3(17, 6, 26), transform.rotation);
-        cubeSpawn.GetComponent<Rigidbody>().AddForce(-1500, 500, 0 * Time.deltaTime * 100000);
+
+        GameObject cubeSpawn = (GameObject)Instantiate(Crate, new Vector3(Spawner.transform.position.x, Spawner.transform.position.y, Spawner.transform.position.z), transform.rotation);
+        cubeSpawn.GetComponent<Rigidbody>().AddForce(0, 250, 1 * Time.deltaTime * 100000);
         count++;
     }
 
@@ -71,7 +72,8 @@ public class ObjectSpawner : MonoBehaviour {
     //}
 
     // Update is called once per frame
-    void Update () {
+    void Update()
+    {
 
         if (Input.GetMouseButtonDown(0))
         {
@@ -83,7 +85,7 @@ public class ObjectSpawner : MonoBehaviour {
 
 
 
-        }
+    }
 
 
 
