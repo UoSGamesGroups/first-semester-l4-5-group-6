@@ -37,7 +37,7 @@ public class CharacterMovement : MonoBehaviour
 	// Update is called once per frame
 	void Update () {
         // Rotation
-        transform.Rotate(new Vector3(0, Input.GetAxisRaw("Mouse X"), 0) * Time.deltaTime * LookSpeed);
+        //transform.Rotate(new Vector3(0, Input.GetAxisRaw("Mouse X"), 0) * Time.deltaTime * LookSpeed);
 
         // Translation
         if (Input.GetKey(ForwardKey))

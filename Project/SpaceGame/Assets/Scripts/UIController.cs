@@ -15,7 +15,13 @@ public class UIController : MonoBehaviour
     private PlayerController _pc;
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+	{
+	    Cursor.visible = false;
+	    Cursor.lockState = CursorLockMode.Locked;
+
+        
+        print("Disabled Cursor");
         _player = GameObject.FindGameObjectWithTag("Player");
 	    _playerRB = _player.GetComponent<Rigidbody>();
 	    _pc = _player.GetComponent<PlayerController>();
