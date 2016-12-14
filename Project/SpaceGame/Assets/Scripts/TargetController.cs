@@ -20,7 +20,9 @@ public class TargetController : MonoBehaviour
 
     void OnCollisionEnter(Collision coll)
     {
-        if(coll.gameObject.name.Contains("Crate"))
+        print("Collided with: " + coll.gameObject.name);
+
+        if (coll.gameObject.tag == "Pickup" && LevelController.RoundStarted)
         {
             Destroy(coll.gameObject);
             _pc.Score++;

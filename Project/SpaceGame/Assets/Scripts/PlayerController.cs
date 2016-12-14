@@ -32,6 +32,7 @@ public class PlayerController : MonoBehaviour
                     {
                     pickedUp = hit.collider.gameObject;
                         pickedUp.GetComponent<Rigidbody>().useGravity = false;
+                        pickedUp.GetComponent<Rigidbody>().velocity = Vector3.zero;
                         pickedUp.transform.SetParent(Camera.main.transform);
                     //pickedUp.transform.position = transform.TransformPoint(new Vector3(0, 0, 10));
                     }
